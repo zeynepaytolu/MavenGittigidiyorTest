@@ -11,7 +11,7 @@
 	- Adet arttırılarak ürün adedinin 2 olduğu doğrulanır.
 	- Ürün sepetten silinerek sepetin boş olduğu kontrol edilir.
 
-//Yukarıda istenilen aşamaların Kodlarını bir bütün halinde tamamlayabildiğim kadarıyla açıklamak istedim...
+//Yukarıda istenilen aşamaların Kodlarını birleştirerek bir bütün halinde tamamlayabildiğim kadarıyla açıklamak istedim...
 
 //Öncelikle program olarak int "IntelliJ IDE" platformunu kullandım. 
 //Daha sonrasıda gerekli kütüphaneleri pom.xml'e "mvnrepository" sayfasından alarak ekledim.
